@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @mIrfan02
-- 👀 I’m interested in  Web developement machine learning
-- 🌱 I’m currently learning  Machine learning with python ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Muhammad Irfan
 
-<!---
-mIrfan02/mIrfan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm a Full-Stack Web Developer with a passion for creating dynamic and user-friendly web applications. My expertise includes:
+
+- Laravel for robust back-end development.
+- Proficiency in HTML, CSS, JavaScript, and jQuery for crafting intuitive user interfaces.
+- React.js for building interactive and responsive front-end components.
+- Strong knowledge of various programming languages.
+
+🌱 I’m currently learning Machine Learning with Python to broaden my skill set and explore new possibilities in technology.
+
+💼 I’m open to collaborate on exciting web development projects and explore the intersection of web development and machine learning.
+
+📫 You can reach me at mi7905627@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-irfan-1130a1221/) to discuss potential collaborations or projects.
+
+Feel free to explore my repositories to see some of the exciting web development projects I've been working on!
