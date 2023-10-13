@@ -14,3 +14,10 @@
 📫 You can reach me at mi7905627@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-irfan-1130a1221/) to discuss potential collaborations or projects.
 
 Feel free to explore my repositories to see some of the exciting web development projects I've been working on!
+
+### Skills
+
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+- Python ![Python](https://img.shields.io/badge/Python-90%25-blue)
+- HTML/CSS ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-70%25-green)
+
