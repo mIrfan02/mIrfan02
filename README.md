@@ -6,7 +6,30 @@
     <link rel="stylesheet" href="styles.css">
     <title>GitHub Profile</title>
 
-  <style>
+ 
+</head>
+<body>
+    <h1>👋 Hi, I’m Muhammad Irfan</h1>
+
+    <p>👀 I'm a Full-Stack Web Developer with a passion for creating dynamic and user-friendly web applications. My expertise includes:</p>
+
+    <ul>
+        <li>Laravel for robust back-end development.</li>
+        <li>Proficiency in HTML, CSS, JavaScript, and jQuery for crafting intuitive user interfaces.</li>
+        <li>React.js for building interactive and responsive front-end components.</li>
+        <li>Strong knowledge of various programming languages.</li>
+    </ul>
+
+    <p>🌱 I’m currently learning Machine Learning with Python to broaden my skill set and explore new possibilities in technology.</p>
+
+    <p>💼 I’m open to collaborate on exciting web development projects and explore the intersection of web development and machine learning.</p>
+
+    <p>📫 You can reach me at mi7905627@gmail.com or connect with me on <a href="https://www.linkedin.com/in/muhammad-irfan-1130a1221/">LinkedIn</a> to discuss potential collaborations or projects.</p>
+
+    <p>Feel free to explore my repositories to see some of the exciting web development projects I've been working on!</p>
+
+    <h2>Skills</h2>
+ <style>
     .skill-box {
         display: flex;
         flex-wrap: wrap;
@@ -35,29 +58,6 @@
         color: #3498db;
     }
 </style>
-</head>
-<body>
-    <h1>👋 Hi, I’m Muhammad Irfan</h1>
-
-    <p>👀 I'm a Full-Stack Web Developer with a passion for creating dynamic and user-friendly web applications. My expertise includes:</p>
-
-    <ul>
-        <li>Laravel for robust back-end development.</li>
-        <li>Proficiency in HTML, CSS, JavaScript, and jQuery for crafting intuitive user interfaces.</li>
-        <li>React.js for building interactive and responsive front-end components.</li>
-        <li>Strong knowledge of various programming languages.</li>
-    </ul>
-
-    <p>🌱 I’m currently learning Machine Learning with Python to broaden my skill set and explore new possibilities in technology.</p>
-
-    <p>💼 I’m open to collaborate on exciting web development projects and explore the intersection of web development and machine learning.</p>
-
-    <p>📫 You can reach me at mi7905627@gmail.com or connect with me on <a href="https://www.linkedin.com/in/muhammad-irfan-1130a1221/">LinkedIn</a> to discuss potential collaborations or projects.</p>
-
-    <p>Feel free to explore my repositories to see some of the exciting web development projects I've been working on!</p>
-
-    <h2>Skills</h2>
-
     <!-- Add circular progress bars for skills -->
     <div class="skill-box">
         <div class="skill">
