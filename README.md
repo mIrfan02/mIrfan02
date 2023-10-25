@@ -17,9 +17,9 @@ Feel free to explore my repositories to see some of the exciting web development
 
 ## Skills
 
-- **HTML/CSS:** 95% &#x1F49A; (Blue)
-- **JavaScript:** 80% &#x1F499; (Orange)
-- **Python:** 90% &#x1F49B; (Green)
-- **Laravel:** 90% &#x1F49C; (Red)
-- **React.js:** 50% &#x1F49D; (Purple)
-- **Bootstrap:** 99% &#x1F49E; (Yellow)
+- HTML/CSS: ██████░░░░░░ 25%
+- JavaScript: █████████░░ 50%
+- Python: ████████░░░░ 35%
+- Laravel: ████████░░░░ 35%
+- React.js: █████░░░░░░░ 20%
+- Bootstrap: ██████████ 90%
