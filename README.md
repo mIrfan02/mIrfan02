@@ -1,5 +1,5 @@
 
-<img src='https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=600' style="width:100vw; height:400px;" />
+<img src='https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=600' style="width:100vw; height:400px; border-radius:8px;" />
 
 <hr>
 
