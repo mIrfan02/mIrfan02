@@ -1,4 +1,6 @@
-Hi 👋, I'm Muhammad Irfan
+<div style="text-align: center; font-weight: bold;">
+  Hi 👋, I'm Muhammad Irfan
+</div>
 
   <img src="https://images.wallpapersden.com/image/download/i-love-coding-log_bW5taWiUmZqaraWkpJRobWllrWdpZWU.jpg" style="width:100vw; height:400px;" />
 
