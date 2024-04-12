@@ -1,5 +1,5 @@
 
-<img src='https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=600' style="width:100vw;" />
+<img src='https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg?auto=compress&cs=tinysrgb&w=600' style="width:100vw; height="600px" />
 
 # 💫 About Me:
 I'm a Full-Stack Web Developer with a passion for creating dynamic and user-friendly web applications. My expertise includes:<br><br>Laravel for robust back-end development.<br>Proficiency in HTML, CSS, JavaScript, and jQuery for crafting intuitive user interfaces.<br>React.js for building interactive and responsive front-end components.<br>Strong knowledge of various programming languages.<br>🌱 I’m currently learning Machine Learning with Python to broaden my skill set and explore new possibilities in technology.<br><br>💼 I’m open to collaborate on exciting web development projects and explore the intersection of web development and machine learning.<br><br>📫 You can reach me at mi7905627@gmail.com or connect with me on LinkedIn to discuss potential collaborations or projects.<br><br>Feel free to explore my repositories to see some of the exciting web development projects I've been working on!
